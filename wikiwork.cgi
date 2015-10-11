@@ -84,10 +84,9 @@ Content-type:text/html\n\n
 
 <html>
 <head>
-<link rel="stylesheet" href="http://www.scott5114.name/style.css" type="text/css" />
+<link rel="stylesheet" href="../style.css" type="text/css" />
 <title>WikiWork calculator</title>
 <style type="text/css">
-body{ background-image: url(http://www.scott5114.name/headbg.jpg); background-repeat:no-repeat; }
 
 table.wikitable,
 table.prettytable {
